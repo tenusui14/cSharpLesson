@@ -1,0 +1,15 @@
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/bin/Debug/net7.0/HelloConsole
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/bin/Debug/net7.0/HelloConsole.deps.json
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/bin/Debug/net7.0/HelloConsole.runtimeconfig.json
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/bin/Debug/net7.0/HelloConsole.dll
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/bin/Debug/net7.0/HelloConsole.pdb
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.csproj.AssemblyReference.cache
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.AssemblyInfoInputs.cache
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.AssemblyInfo.cs
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.csproj.CoreCompileInputs.cache
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.dll
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/refint/HelloConsole.dll
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.pdb
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/HelloConsole.genruntimeconfig.cache
+/home/artem/Рабочий стол/csharplessons/lesson1/HelloConsole/obj/Debug/net7.0/ref/HelloConsole.dll
